@@ -1,0 +1,52 @@
+   #Vriables in python
+
+   first_name = "Waqas"
+   last_name = "Khan"
+   country = "Pakistan"
+   city = "Mingora Swat"
+   age = 21
+   is_married = False
+   skills = ["SQL","R","Python","Tableau"]
+   person_info = {
+       "firstname":"Waqas",
+       "lastname":"Khan",
+       "country":"Pakistan",
+       "city":"Mingora Swat"
+   }
+
+   #Printing the values stores in the variables
+
+   print("First name: ",first_name)
+   print("Frist name length: ",len(first_name))
+   print("Last name: ",last_name)
+   print("Last name: ",len(last_name))
+   print("Country: ",country)
+   print("City: ",city)
+   print("Age: ",age)
+   print("Married status: ",is_married)
+   print("Skills: ",skills)
+   print("Person information: ",person_info)
+
+   #Declaring Multiple variables in one lines
+
+   first_name, last_name, country, age, is_married = "Waqas", "Khan", "Pakistan", 21, False
+   print(first_name, last_name, country, age, is_married)
+   
+   print("First name: ",first_name)
+   print("Last name: ",last_name)
+   print("Country: ",country)
+   print("City: ",city)
+   print("Age: ",age)
+   print("Married status: ",is_married)
+
+   #Declaring Variables type
+
+   print(type(first_name))
+   print(type(last_name))
+   print(type(country))
+   print(type(city))
+   print(type(age))
+   print(type(is_married))
+   print(type(skills))
+   print(type(person_info))
+
