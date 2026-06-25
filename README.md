@@ -1,2 +1,7 @@
 # 30_DaysOfPython
-30 Days of Python — A beginner-friendly challenge to master Python in one month. Daily exercises, mini-projects and code examples.
+
+A complete 30-day Python learning journey designed for beginners to go from zero to intermediate level. 🚀
+## 📋 About This Challenge
+- **Duration**: 30 Days
+- **Level**: Beginner to Intermediate
+- **Goal**: Master Python fundamentals with daily practice and mini-projects
